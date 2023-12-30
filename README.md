@@ -1,4 +1,4 @@
-<h1>Hi, I'm Dami! Cybersecurity Analyst </h1>
+<h1>Hi, I'm Dami! Cybersecurity Analyst. </h1>
 
 <h2>👨‍💻 Cybersecurity Project(s):</h2>
 
